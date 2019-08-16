@@ -9,6 +9,10 @@ Forked by @atlemagnussen 2019-08-16
 Patch version:  
 [font2 20190416-ba72400](https://st.suckless.org/patches/font2/st-font2-20190416-ba72400.diff)
 
+### scrollback
+[patch homepage](https://st.suckless.org/patches/scrollback/)  
+patch scrollback version:  
+[scrollback 20190331-21367a0](https://st.suckless.org/patches/scrollback/st-scrollback-20190331-21367a0.diff)
 
 Requirements
 ------------

@@ -4,8 +4,10 @@ st is a simple terminal emulator for X which sucks less.
 Forked by @atlemagnussen 2019-08-16
 
 ## Patches applied
-- [font2 20190416-ba72400](https://st.suckless.org/patches/font2/st-font2-20190416-ba72400.diff)
-This patch allows to add spare font besides default.
+### font2
+[patch homepage](https://st.suckless.org/patches/font2/)  
+Patch version:  
+[font2 20190416-ba72400](https://st.suckless.org/patches/font2/st-font2-20190416-ba72400.diff)
 
 
 Requirements

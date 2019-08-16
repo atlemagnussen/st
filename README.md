@@ -26,6 +26,9 @@ Requirements
 ------------
 In order to build st you need the Xlib header files.
 
+FreeBSD
+------------
+sudo pkg install pkgconf
 
 Installation
 ------------

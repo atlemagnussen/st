@@ -12,10 +12,15 @@ Patch version:
 ### scrollback
 [patch homepage](https://st.suckless.org/patches/scrollback/)  
 patch scrollback version:  
-[scrollback 20190331-21367a0](https://st.suckless.org/patches/scrollback/st-scrollback-20190331-21367a0.diff)
+[scrollback 20190331-21367a0](https://st.suckless.org/patches/scrollback/st-scrollback-20190331-21367a0.diff)  
 
 patch scrollback-mouse version:  
 [scrollback-mouse 0.8.2](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-0.8.2.diff)
+
+### alpha
+[patch homepage](https://st.suckless.org/patches/alpha/)  
+patch version:  
+[alpha 0.8.2](https://st.suckless.org/patches/alpha/st-alpha-0.8.2.diff)
 
 Requirements
 ------------

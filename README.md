@@ -14,6 +14,9 @@ Patch version:
 patch scrollback version:  
 [scrollback 20190331-21367a0](https://st.suckless.org/patches/scrollback/st-scrollback-20190331-21367a0.diff)
 
+patch scrollback-mouse version:  
+[scrollback-mouse 0.8.2](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-0.8.2.diff)
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.

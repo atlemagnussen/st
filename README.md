@@ -28,7 +28,18 @@ In order to build st you need the Xlib header files.
 
 FreeBSD
 ------------
+```sh
 sudo pkg install pkgconf
+```
+
+For freebsd you can ignore this message:
+```sh
+tic -sx st.info
+make: exec(tic) failed (No such file or directory)
+*** Error code 1
+
+Stop.
+```
 
 Installation
 ------------

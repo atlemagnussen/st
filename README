@@ -5,6 +5,10 @@ st is a simple terminal emulator for X which sucks less.
 Forked by @atlemagnussen 2020-05-10  
 Version `0.8.3`  
 
+## Patches
+### alpha
+[st-alpha-0.8.2.diff](https://st.suckless.org/patches/alpha/st-alpha-0.8.2.diff)
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
